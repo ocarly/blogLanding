@@ -1,0 +1,17 @@
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .card-header {
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  .card-title {
+    color: #007bff;
+  }
+  
+  .card-text {
+    color: #6c757d;
+  }
