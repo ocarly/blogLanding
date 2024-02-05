@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import {createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from "react-router-dom";
-import { BlogPosts } from "./BlogPosts";
+import { BlogPosts } from "./componets/BlogPosts/BlogPosts";
 import './App.css';
 import { Root } from "./Root";
 import Footer from './Footer'; // replace with your actual import
